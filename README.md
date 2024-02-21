@@ -1,4 +1,4 @@
-#Typescript
+# Typescript
 
 ## install
 ```bash
